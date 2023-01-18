@@ -18,7 +18,8 @@ body {
 }
 
 #image {
-    display: none;
+    display: block;
+    transform:translateX(${posicion}vh) ;
 }
 
 
